@@ -19,6 +19,6 @@ public class Presenter {
     inverseJoinColumns = @JoinColumn(name = "sessions_id"))
 
     private List<Session>sessions;
-    g
+
 
 }
