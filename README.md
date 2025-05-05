@@ -200,7 +200,7 @@ App runs at: [http://localhost:8080](http://localhost:8080)
 
 ## 👨‍💻 Author
 
-Built with 💻 by **Your Name**  
+Built with 💻 by **Dinuki Prarthana**  
 🔗 GitHub: [@Dinuki](https://github.com/Dinuki85)
 
 ---
